@@ -1,0 +1,227 @@
+/* nav a bar 1 start */
+#main{
+    width: 95%;
+    height: 60px;
+    background-color: rgb(171, 221, 249);
+    border: 3px solid black;
+    margin: auto;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-style: italic;
+    display: flex;
+   
+}
+#home,#about,#services,#hireus,#contact,#searchicon{
+    margin-left: 30px;
+    margin-top: 15px;
+    padding-top: 5px;
+}
+#home:hover,#about:hover,#services:hover,#hireus:hover,#contact:hover ,#searchicon:hover{
+    margin-top: 15px;
+    padding-top: 1px;
+    padding-bottom:1px ;
+    color: rgb(251, 7, 7);
+    cursor: pointer;
+
+}
+#home{
+    margin-left: 60%;
+}
+/* nav a bar 1 end */
+
+
+
+/* nav a bar 2 start */
+   #main2{
+    width: 95%;
+    height: 60px;
+    background-color: rgb(181, 228, 237);
+    border: 3px solid black;
+    margin: auto;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-style: italic;
+    display: flex;
+    margin-top: 20px;
+}
+#home2,#about2,#services2,#hireus2,#contect2,#signin2{
+    margin-left: 30px;
+    margin-top: 15px;
+    padding-top: 5px;
+}
+#signin2{
+    margin-left: 1000px;
+}
+#home2:hover,#about2:hover,#services2:hover,#hireus2:hover,#contect2:hover ,#signin2:hover{
+    margin-top: 15px;
+    padding-top: 1px;
+    padding-bottom:1px ;
+    color: rgb(251, 7, 7);
+    cursor: pointer;
+    height: ;
+}
+#mainmain2{width: 95%;
+    height: 60px;
+    background-color: rgb(54, 169, 189);
+    border: 3px solid black;
+    margin: auto;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-style: italic;
+    display: flex;
+}
+    #button{
+        width: 150px;
+        height: 50px;
+        background-color: rgb(42, 5, 251);
+        color: white;
+        text-align: center;
+        font-size: 20px;
+        border-radius: 10px;
+        box-shadow: 2px 2px 2px 2px ;
+        margin-left: 10px;
+        margin-top: 5px;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        margin-left: 50px;
+    }
+    #button1{
+        margin-left: 76%;
+    }
+/* nav a bar 2 end */
+
+
+/* nav a bar 3 start */
+
+#main3{width: 95%;
+    height: 60px;
+    background-color: rgb(181, 228, 237);
+    border: 3px solid black;
+    margin: auto;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-style: italic;
+    display: flex;
+    margin-top: 20px;
+}
+#home3,#about3,#contect3{
+    margin-left: 30px;
+    margin-top: 15px;
+    padding-top: 5px;
+}
+#home3{
+    margin-left: 30%;
+    margin-top: 15px;
+    padding-top: 5px;
+}
+#lang3{
+    margin-left: 35%;
+    margin-top: 15px;
+    padding-top: 5px;
+}
+#home3:hover,#home5:hover,#about3:hover,#contect3:hover,#lang3:hover{
+    margin-top: 15px;
+    padding-top: 1px;
+    padding-bottom:1px ;
+    color: rgb(251, 7, 7);
+    cursor: pointer;
+    height: ;
+}
+
+#brand3{
+margin-left: 32% ;}
+#button3{
+    width: 150px;
+    height: 50px;
+    background-color: rgba(42, 5, 251, 0.454);
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px 2px ;
+    margin-left: 10px;
+    margin-top: 5px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 50px;
+}
+#button2{
+    margin-left: 34%;
+}
+#main03{width: 95%;
+    height: 60px;
+    background-color: rgb(14, 144, 171);
+    border: 3px solid black;
+    margin: auto;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-style: italic;
+    display: flex;
+}
+/* nav a bar 3 end */
+
+
+/* nav a bar 4 end */
+
+#main4{width: 95%;
+    height: 60px;
+    background-color: rgb(192, 246, 255);
+    border: 3px solid black;
+    margin: auto;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-style: italic;
+    display: flex;
+    margin-top: 20px;
+}
+#bar{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+#brand4{
+    margin-left: 40%;
+
+}
+
+#button4{
+    margin-left: 600px;
+}
+
+
+
+/* nav a bar 4 end */
+
+
+
+/* nav a bar 5 start */
+#home5{
+    margin-top: 20px ;
+    margin-left: 20%;
+}
+
+#button5{
+    margin-left: 28%;
+}
+/* nav a bar 5 end */
+
+
+/* nav a bar 6 start */
+
+#search{
+    margin-top: 20px;
+    width: 40px;
+    width: 30px;
+}
+#home6{
+    margin-top: 20px;
+    margin-left: 57%;
+}
+
+
+
+
+/* nav a bar 6 start */
